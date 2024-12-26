@@ -60,13 +60,13 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- Provided scope for Tomcat -->
+        <!-- Provided scope for Tomcat 
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-tomcat</artifactId>
             <scope>provided</scope>
         </dependency>
-
+       -->
         <!-- Provided scope for Servlet API -->
         <dependency>
             <groupId>javax.servlet</groupId>
